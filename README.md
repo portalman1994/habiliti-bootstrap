@@ -6,7 +6,7 @@ Habiliti mainly uses IndexedDB for the database and Bootstrap for the frontend. 
 | Tracking                 | Reminders                 | Progress                  |
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![alt text](https://github.com/portalman1994/habiliti/blob/main/img/track.png?raw=true)  | ![alt text](https://github.com/portalman1994/habiliti/blob/main/img/reminders.png?raw=true) | ![alt text](https://github.com/portalman1994/habiliti/blob/main/img/progress.png?raw=true)
-## Habiliti Tasklist
+## Habiliti Task list
 - [ ] Change calendar UI
 - [ ] Refactor JavaScript code
 - [ ] Refactor HTML code
