@@ -755,6 +755,7 @@ function getProgress() {
     progressBar.setAttribute("aria-valuemin", "0");
     progressBar.setAttribute("aria-valuemax", "100");
     //append 
+    userProgress.innerHTML = "";
     userProgress.appendChild(boldText);
     let content = document.getElementById("progress");
     content.innerHTML = "";
@@ -926,7 +927,7 @@ function askNotificationPermission() {
 
 
 
-//intilize at form one
+//initialize at form one
 
 
 //jquery form manipulation
