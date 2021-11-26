@@ -1,4 +1,3 @@
-# Habiliti
 ## What is Habiliti? 
 Habiliti allows you to track your habits in an easy to use interface. 
 ## What makes Habiliti work?
